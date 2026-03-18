@@ -90,7 +90,7 @@ Este projeto está sob a licença MIT.
 
 ## 📊 Diagramas
 
-### Modelo EER completo
+### Modelo EER completo no Workbench
 
 Visão geral do sistema de e-commerce, mostrando todas as entidades conectadas.
 <img width="594" height="588" alt="Modelo de Entidade de relaçionamento estendido (E-commerc) 1" src="https://github.com/user-attachments/assets/4fcfbf86-daa9-4d5f-92a1-cdd9247fa6a5" />
