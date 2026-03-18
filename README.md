@@ -45,7 +45,7 @@ Construir um **modelo de dados robusto e escalável** que permita à empresa:
 
 ## 🚀 Melhorias que este modelo traz
 - **Redução de redundância**: endereços e documentos centralizados, evitando duplicação.  
-- **Rastreabilidade completa**: cada pedido pode ser rastreado desde o cliente até a entrega e pagamento.  
+- **Rastreabilidade ponta a ponta**: cada pedido pode ser acompanhado desde o cliente que o originou até o pagamento e a entrega, garantindo visão completa do ciclo de vendas e logística.”
 - **Visão 360º do cliente**: integração de dados cadastrais, pedidos e pagamentos.  
 - **Gestão eficiente de fornecedores e estoque**: controle claro de origem e disponibilidade dos produtos.  
 - **Base para BI e Analytics**: modelo pronto para alimentar dashboards de vendas, logística e finanças.  
