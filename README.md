@@ -87,3 +87,12 @@ Construir um **modelo de dados robusto e escalável** que permita à empresa:
 
 ## 📄 Licença
 Este projeto está sob a licença MIT.
+
+## 📊 Diagramas
+
+### Modelo EER completo
+
+Visão geral do sistema de e-commerce, mostrando todas as entidades conectadas.
+<img width="594" height="588" alt="Modelo de Entidade de relaçionamento estendido (E-commerc) 1" src="https://github.com/user-attachments/assets/4fcfbf86-daa9-4d5f-92a1-cdd9247fa6a5" />
+<img width="605" height="576" alt="modelo de entidade  de relaçionamento estendido (e-commerce)2" src="https://github.com/user-attachments/assets/6c0a7b11-63fc-4beb-8909-5056b3a294da" />
+<img width="492" height="293" alt="Modelo de entidade de relaçionamento estendido (E-commerce)3" src="https://github.com/user-attachments/assets/ee89047e-1645-4794-9966-c64c2a288338" />
